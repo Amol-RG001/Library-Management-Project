@@ -1,0 +1,14 @@
+E:\BIRLASOFT\BIRLASOFT-CLASSROOM\CSharp Code\LibraryManagementSoln\CapstoneProject2\bin\Debug\netcoreapp3.1\CapstoneProject2.exe
+E:\BIRLASOFT\BIRLASOFT-CLASSROOM\CSharp Code\LibraryManagementSoln\CapstoneProject2\bin\Debug\netcoreapp3.1\CapstoneProject2.deps.json
+E:\BIRLASOFT\BIRLASOFT-CLASSROOM\CSharp Code\LibraryManagementSoln\CapstoneProject2\bin\Debug\netcoreapp3.1\CapstoneProject2.runtimeconfig.json
+E:\BIRLASOFT\BIRLASOFT-CLASSROOM\CSharp Code\LibraryManagementSoln\CapstoneProject2\bin\Debug\netcoreapp3.1\CapstoneProject2.runtimeconfig.dev.json
+E:\BIRLASOFT\BIRLASOFT-CLASSROOM\CSharp Code\LibraryManagementSoln\CapstoneProject2\bin\Debug\netcoreapp3.1\CapstoneProject2.dll
+E:\BIRLASOFT\BIRLASOFT-CLASSROOM\CSharp Code\LibraryManagementSoln\CapstoneProject2\bin\Debug\netcoreapp3.1\CapstoneProject2.pdb
+E:\BIRLASOFT\BIRLASOFT-CLASSROOM\CSharp Code\LibraryManagementSoln\CapstoneProject2\obj\Debug\netcoreapp3.1\CapstoneProject2.csproj.AssemblyReference.cache
+E:\BIRLASOFT\BIRLASOFT-CLASSROOM\CSharp Code\LibraryManagementSoln\CapstoneProject2\obj\Debug\netcoreapp3.1\CapstoneProject2.GeneratedMSBuildEditorConfig.editorconfig
+E:\BIRLASOFT\BIRLASOFT-CLASSROOM\CSharp Code\LibraryManagementSoln\CapstoneProject2\obj\Debug\netcoreapp3.1\CapstoneProject2.AssemblyInfoInputs.cache
+E:\BIRLASOFT\BIRLASOFT-CLASSROOM\CSharp Code\LibraryManagementSoln\CapstoneProject2\obj\Debug\netcoreapp3.1\CapstoneProject2.AssemblyInfo.cs
+E:\BIRLASOFT\BIRLASOFT-CLASSROOM\CSharp Code\LibraryManagementSoln\CapstoneProject2\obj\Debug\netcoreapp3.1\CapstoneProject2.csproj.CoreCompileInputs.cache
+E:\BIRLASOFT\BIRLASOFT-CLASSROOM\CSharp Code\LibraryManagementSoln\CapstoneProject2\obj\Debug\netcoreapp3.1\CapstoneProject2.dll
+E:\BIRLASOFT\BIRLASOFT-CLASSROOM\CSharp Code\LibraryManagementSoln\CapstoneProject2\obj\Debug\netcoreapp3.1\CapstoneProject2.pdb
+E:\BIRLASOFT\BIRLASOFT-CLASSROOM\CSharp Code\LibraryManagementSoln\CapstoneProject2\obj\Debug\netcoreapp3.1\CapstoneProject2.genruntimeconfig.cache
